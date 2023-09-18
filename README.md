@@ -1,1 +1,1 @@
-This is a group project by Larry and Frimpomaa
+This is a group project by Larry and Frimpomaa.
