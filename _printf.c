@@ -3,6 +3,7 @@
 void print_buffer(char buffer[], int *buff_ind);
 
 /**
+* This project was done by Larry and Frimpomaa
  * _printf - produces output according to a format
  * @format: character string
  * Return: number of characters printed
