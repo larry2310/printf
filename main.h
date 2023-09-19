@@ -32,7 +32,7 @@ struct fmt
 
 /**
  * typedef struct fmt fmt_t - Struct op
- * @fmt: The format
+ * @fmt: The format itself
  * @fm_t: The function associated
  */
 typedef struct fmt fmt_t;
