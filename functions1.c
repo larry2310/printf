@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_unsigned - Prints an unsigned number
- * @types: List a of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
@@ -30,7 +30,7 @@ int print_unsigned(va_list types, char buffer[],
 }
 /**
  * print_octal - Prints an unsigned number in octal notation
- * @types: Lista of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
@@ -80,7 +80,7 @@ int print_hex(va_list types, char buffer[],
 }
 /**
  * print_HEX - Prints an unsigned number in upper hexadecimal
- * @types: Lista of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
@@ -96,7 +96,7 @@ int print_HEX(va_list types, char buffer[],
 }
 /**
  *print_hexa - Prints a hexadecimal number in lower or upper
- * @types: List of arg
+ * @types: Lists of arg
  * @map_to: Array
  * @buffer: Buffer array
  * @flags: active flags
