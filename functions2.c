@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_pointer - Prints the value of a pointer variable
- * @types: List a of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
@@ -47,7 +47,7 @@ int print_pointer(va_list types, char buffer[],
 }
 /**
  * print_non_printable - Prints ascii codes in hexa of non printable chars
- * @types: Lista of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
@@ -81,7 +81,7 @@ int print_non_printable(va_list types, char buffer[],
 }
 /**
  * print_rev - Prints reverse string.
- * @types: Lista of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
@@ -121,7 +121,7 @@ int print_rev(va_list types, char buffer[],
 }
 /**
  * print_rot13string - Print a string in rot13.
- * @types: Lista of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
