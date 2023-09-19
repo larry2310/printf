@@ -18,7 +18,7 @@ int print_char(va_list types, char buffer[],
 }
 /**
  * print_string - Prints string
- * @types: List of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
@@ -68,7 +68,7 @@ int print_string(va_list types, char buffer[],
 }
 /**
  * print_percent - Prints a percent sign
- * @types: Lista of arg
+ * @types: Lists of arg
  * @buffer: Buffer array
  * @flags: active flags
  * @width: width
